@@ -5,3 +5,5 @@
 - `1-listit`: This displays the contents list of your current directory.
 
 - `2-bring_me_home`: This changes the working directory to the user’s home directory.
+
+- `3-listfiles`: This displays current directory contents in a long format.
